@@ -1,7 +1,7 @@
 # Distributed Computing Framework
 Framework for deploying Hadoop and Spark on a shared cluster within a batch job.
 
-The official repository is hosted on Bitbucket [here](https://bitbucket.org/avapirev/distributed-computing-framework/src/master/).
+The official repository is hosted [here](https://bitbucket.org/avapirev/distributed-computing-framework/src/master/).
 
 What is DCF
 ===========
