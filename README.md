@@ -1,4 +1,4 @@
-# Distributed Computing Framework v1.0.2
+# Distributed Computing Framework v1.1.2
 Framework for deploying Hadoop and Spark on a shared cluster within a batch job.
 
 The official repository is hosted [here](https://bitbucket.org/avapirev/distributed-computing-framework/src/master/).
